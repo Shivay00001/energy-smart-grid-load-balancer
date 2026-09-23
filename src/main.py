@@ -1,5 +1,5 @@
-from src.grid_graph import PowerGrid
-from src.balancer import LoadBalancer
+from grid_graph import PowerGrid
+from balancer import LoadBalancer
 
 def main():
     print("--- Energy Smart Grid Load Balancer ---")
